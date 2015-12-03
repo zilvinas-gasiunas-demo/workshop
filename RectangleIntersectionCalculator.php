@@ -3,7 +3,7 @@
 	class RectangleIntersectionCalculator {
 		
 		public function RectangleIntersectionCalculator(Rectangle rectangle) {
-		
+			$dollar = 3;
 		}
 		
 		public function generic(Geometry geometry) {
