@@ -4,6 +4,7 @@
 		
 		public function RectangleIntersectionCalculator(Rectangle rectangle) {
 			$var = "wanna fight?";
+			$dollar = 3;
 		}
 		
 		public function generic(Geometry geometry) {
